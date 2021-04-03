@@ -30,7 +30,7 @@ a {
 }
 
 .navbar > a:hover {
-    color: blue;
+    color: #0D4AC4;
 }
 
 .logo {
@@ -45,4 +45,12 @@ a {
     width: 560px;
     background-color: rgba(42,42,42,0.05);
     border-radius: 10px;
+}
+
+.social:link, .social:visited {
+    color: #0D4AC4;
+}
+
+.social:hover {
+    color: #3D7AF2;
 }
